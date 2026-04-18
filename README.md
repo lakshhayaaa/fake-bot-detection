@@ -1,5 +1,15 @@
 # fake-bot-detection
 
+## Project set-up
+### 1. Create virtual environment
+```bash
+python -m venv myenv
+```
+### 2. Install Requirements
+```bash
+pip install requirements.txt
+```
+
 ## Instruction to run
 
 ### 1. Data Preprocessing
