@@ -217,8 +217,3 @@ venv/
 # Logs
 *.log
 
-# Model files (optional)
-*.pkl
-
-# Data files (optional - depends on your choice)
-data/processed/
