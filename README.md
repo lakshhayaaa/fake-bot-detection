@@ -12,10 +12,9 @@ pip install requirements.txt
 
 ## Instruction to run
 
-### 1. Data Preprocessing
+
 ```bash
-python app/services/preprocessing.py
+python uvicorn app.services.main:app --reload
 ```
-The preprocessed data is saved in "data\processed\cleaned_data.csv"
 
 ---- 
